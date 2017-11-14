@@ -1,6 +1,6 @@
-# A PHP command-line application built using Symfony
+# A PHP command-line application built using Symfony and Symfony/Console
 
-This is a User Greetings console App built using PHP and Symfony/Console.
+This is a User Greetings console app built using PHP and Symfony/Console.
 
 ### Technologies
 - PHP
@@ -8,7 +8,7 @@ This is a User Greetings console App built using PHP and Symfony/Console.
 - Symfony/Console
 
 ### Installation
-* git clone this repo[here](https://github.com/philipszdavido/php-console-app-using-symfony).
+* git clone this repo [here](https://github.com/philipszdavido/php-console-app-using-symfony).
 * cd `php-console-app`
 * Run `composer require symfony/console`
 
@@ -35,7 +35,7 @@ This is a User Greetings console App built using PHP and Symfony/Console.
 ## Using the app
 
 ```sh
-    ./console greet Nnamdi
+./console greet Nnamdi
 ```
 
 Output
