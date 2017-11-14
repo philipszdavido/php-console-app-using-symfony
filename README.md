@@ -2,7 +2,7 @@
 
 This is a User Greetings console app built using PHP and Symfony/Console.
 
-* Note: This app was built for my [Medium artcile](Build a PHP console app using Symfony).
+* Note: This app was built for my Medium article [Build a PHP console app using Symfony](https://medium.com/@kurtwanger40/build-a-php-console-application-using-symfony-692a876f416).
 
 ### Technologies
 - PHP
