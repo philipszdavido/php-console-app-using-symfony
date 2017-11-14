@@ -4,7 +4,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Console\\": "src"
+            "Console\\": "src/"
         },
         "classmap": ["src"]
     }

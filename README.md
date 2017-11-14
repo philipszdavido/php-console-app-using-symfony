@@ -56,7 +56,7 @@ Good evening, Nnamdi
 5. Submit a pull request
 
 - Issue Tracker: https://github.com/philipszdavido/php-console-app-using-symfony/issues
-- Source Code: https://github.com/philipszdavido/contact-manager
+- Source Code: https://github.com/philipszdavido/php-console-app-using-symfony
 
 ### Support
 If you are having issues, please let me know.
