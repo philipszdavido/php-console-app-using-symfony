@@ -11,7 +11,7 @@ This is a User Greetings console app built using PHP and Symfony/Console.
 
 ### Installation
 * Clone this repo [here](https://github.com/philipszdavido/php-console-app-using-symfony).
-* cd `php-console-app`
+* cd `php-console-app-using-symfony`
 * Run `composer require symfony/console`
 
 # Usage Options
