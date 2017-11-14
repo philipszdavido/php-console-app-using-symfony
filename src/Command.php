@@ -25,7 +25,7 @@ class Command extends SymfonyCommand
         ]);
         
         // outputs a message without adding a "\n" at the end of the line
-        $output -> write($this -> getGreeting() .', '. $input->getArgument('username'));
+        $output -> write($this -> getGreeting() .', '. $input -> getArgument('username'));
     }
     private function getGreeting()
     {
