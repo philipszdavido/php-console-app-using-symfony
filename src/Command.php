@@ -19,7 +19,7 @@ class Command extends SymfonyCommand
     {
         // outputs multiple lines to the console (adding "\n" at the end of each line)
         $output -> writeln([
-            '====****User Greetings Console App****====',
+            '====**** User Greetings Console App ****====',
             '==========================================',
             '',
         ]);
