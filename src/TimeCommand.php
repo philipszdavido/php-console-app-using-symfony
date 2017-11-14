@@ -13,7 +13,6 @@ class TimeCommand extends Command
     
     public function configure()
     {
-        // ...
         $this -> setName('greet')
             -> setDescription('Greet a user based on the time of the day.')
             -> setHelp('This command allows you to greet a user based on the time of the day...')
@@ -22,7 +21,6 @@ class TimeCommand extends Command
 
     public function execute(InputInterface $input, OutputInterface $output)
     {
-        // ...
         $this -> greetUser($input, $output);
     }
 }

@@ -1,6 +1,5 @@
 <?php namespace Console;
 use Symfony\Component\Console\Command\Command as SymfonyCommand;
-use Symfony\Component\Console\Helper\Table;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
@@ -14,12 +13,10 @@ class Command extends SymfonyCommand
     
     public function __construct()
     {
-        # code...
         parent::__construct();
     }
     protected function greetUser(InputInterface $input, OutputInterface $output)
     {
-        # code...
         // outputs multiple lines to the console (adding "\n" at the end of each line)
         $output -> writeln([
             '====****User Greetings Console App****====',
