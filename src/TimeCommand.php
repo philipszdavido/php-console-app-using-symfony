@@ -4,8 +4,9 @@ use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
 use Console\Command;
+
 /**
- * 
+ * Author: Chidume Nnamdi <kurtwanger40@gmail.com>
  */
 class TimeCommand extends Command
 {
