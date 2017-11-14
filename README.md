@@ -12,7 +12,7 @@ This is a User Greetings console app built using PHP and Symfony/Console.
 * cd `php-console-app`
 * Run `composer require symfony/console`
 
-# Usage
+# Usage Options
     Console App v1.0.0
 
     Usage:
